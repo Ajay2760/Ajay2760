@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Figma**
 
-- - 📫 You can reach out to me via  **[Linkedin](https://www.linkedin.com/in/ajay-r-b719182a4/) and <a href="mailto:ajaykpm0157@gmail.com">Gmail</a>**
+- 📫 You can reach out to me via  **[Linkedin](https://www.linkedin.com/in/ajay-r-b719182a4/) and <a href="mailto:ajaykpm0157@gmail.com">Gmail</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
