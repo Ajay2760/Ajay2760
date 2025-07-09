@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay2760&label=Profile%20views&color=0e75b6&style=flat" alt="ajay2760" /> </p>
 
-- 🌱 I’m currently learning **Flutter,Photoshop**
+- 🌱 I’m currently learning **AWS,AI - MODELS**
 
-- 💬 Ask me about **Figma**
+- 💬 Ask me about **REACT**
 
 - 📫 You can reach out to me via  **[Linkedin](https://www.linkedin.com/in/ajay-r-b719182a4/) and <a href="mailto:ajaykpm0157@gmail.com">Gmail</a>**
 
